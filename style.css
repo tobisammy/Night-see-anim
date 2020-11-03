@@ -71,19 +71,19 @@ ul {
 
 .author {
     width: 100%;
-    transform: translate(30%, 0);
+    transform: translate(26%, 0);
     position: fixed;
-    top: 58%;
+    top: 60%;
 }
 
 .author img {
-    width: 90px;
-    height: 90px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     filter: brightness(150%);
     border: 5px solid rgb(0, 0, 0);
     display: block;
-    margin: 0 0 0 57px;
+    margin: 0 0 0 65px;
 }
 
 .author p {
