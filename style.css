@@ -71,9 +71,9 @@ ul {
 
 .author {
     width: 100%;
-    transform: translate(20%, 0);
+    transform: translate(30%, 0);
     position: fixed;
-    top: 62%;
+    top: 58%;
 }
 
 .author img {
@@ -129,7 +129,7 @@ header {
     font-size: 9pt;
     position: fixed;
     z-index: 111;
-    box-shadow: 0 2px 5px #111;
+    box-shadow: 0 2px 3px #111;
 }
 
 header a {
@@ -186,7 +186,7 @@ header .menu {
     display: block;
     object-fit: cover;
     filter: brightness(12%);
-    box-shadow: 0 2px 15px rgb(253, 251, 251);
+    box-shadow: 0 2px 3px rgb(253, 251, 251);
 }
 
 .img-container .report {
@@ -220,11 +220,11 @@ header .menu {
 .section1 .latest {
     width: 100px;
     height: 25px;
-    background: crimson;
+    background: rgb(226, 92, 119);
     margin: 1rem 2rem;
     text-align: center;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 550;
     transform: skewX(-5deg);
 }
 
@@ -276,7 +276,7 @@ header .menu {
 
 .container2 .search-post {
     font-size: 20px;
-    position: fixed;
+    position: absolute;
     top: 10%;
     right: 37px;
     background: transparent;
